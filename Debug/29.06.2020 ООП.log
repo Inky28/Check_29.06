@@ -1,0 +1,4 @@
+﻿  task02.cpp
+C:\Users\igop2\source\repos\29.06.2020 ООП\29.06.2020 ООП\task02.cpp(53,16): error C2664: 'void ShowGame(std::string)': cannot convert argument 1 from 'std::list<std::list<std::string,std::allocator<std::string>>,std::allocator<std::list<std::string,std::allocator<std::string>>>>' to 'std::string'
+C:\Users\igop2\source\repos\29.06.2020 ООП\29.06.2020 ООП\task02.cpp(53,12): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\igop2\source\repos\29.06.2020 ООП\29.06.2020 ООП\task02.cpp(44,6): message : see declaration of 'ShowGame'
